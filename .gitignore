@@ -1,0 +1,11 @@
+# Ignore the broken Linux backslash file
+leetcode/python/\\
+
+# Ignore virtual environments and editor settings
+venv/
+.vscode/
+__pycache__/
+
+# Ignore compiled C++ files
+*.exe
+*.out
